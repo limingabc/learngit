@@ -14,8 +14,12 @@ Git has a mutable index called stage.
 aaaaa
 
 
-HEAD
+this is head,aaaaaaaaaaaaaaa
 Creating ddddddddddd new branch is quick.
 
 Creating cccccccccc new branch is quick. AND simple.
-featurel
+featutakdios is falsldkaldl this is test
+aaaaaaaaaaaaaaab
+bbbbbbbbbb
+ccccccccccd
+ddddddddddddd
